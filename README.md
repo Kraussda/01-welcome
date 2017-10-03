@@ -39,7 +39,7 @@ You can then join this assignment [here](https://classroom.github.com/assignment
   python -c "import pandas; print(pandas.__version__)"
   ```
   you should get back 0.20.3 or 0.20.1.
-* Open jupyter, and then find `test-suite.ipynb`.  Try running the notebook (`Shift+Enter` or Cell → Run All).  But don't worry if you still have problems with the install, for the submission deadline.  We're just looking for your salaries.sh and SOLUTIONS file.
+* Open jupyter via Anaconda Navigator, "Environments", and the "play" icon for the "geography" environment that you created in the install.  Then navigate to `test-suite.ipynb`.  Try running the notebook (`Shift+Enter` or Cell → Run All).  But don't worry if you still have problems with the install, for the submission deadline.  We're just looking for your salaries.sh and SOLUTIONS file.
 
 &nbsp;<details><summary>FAQs and Common Problems</summary>
 * We'll see what questions we get...
